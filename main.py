@@ -1,4 +1,6 @@
+
 import random
+
 start = int(input("start->"))
 finish = int(input("finish->"))
 size = int(input("size->"))
